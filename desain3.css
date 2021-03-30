@@ -60,6 +60,9 @@ header form input{
     font-size : 15px;
     border-radius: 3px;
 }
+span{
+    color : red;
+}
 .submit {
     font-family: "segoe UI";
     background-color: white;
